@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Content Creator Traveller </string>
+    <string name="nama">"Nama : "</string>
+    <string name="TTL">"Tanggal Lahir : "</string>
+    <string name="negara">"Warga Negara : "</string>
+    <string name="tiktok" />
+    <string name="yt" />
+    <string name="ig" />
+    <string name="traveler_alias" />
+    <string name="deskripsi" />
+    <string name="profile">Armand Maulana</string>
+    <string name="email">ArmandM792@Gmail.com</string>
+    <string name="about">About\n</string>
+    <string name="icon" />
+</resources>
